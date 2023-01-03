@@ -1,0 +1,69 @@
+
+.inputBoxcalenderBox {
+  padding-right: 10px;
+    font-size: 22px;
+    padding: 5px 8px 4px 8px;
+    border-radius: 3px;
+    border: 1px solid #666;
+  }
+  .labeltxt{
+    padding-right: 10px;
+  }
+  .calendarWrap {
+    margin-top: 15px;
+    display: inline-block;
+    position: relative;
+
+    border: 1px solid rgb(170, 168, 168);
+    padding: 10px;
+  }
+  
+  .calendarElement {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 40px;
+    border: 1px solid #ccc;
+    z-index: 999;
+  }
+  .Leaveform{
+    margin-top: 20px;
+    margin-left: 5px;
+  }
+  .textname{
+    margin-left: 5px;
+    padding-left: 10px;
+  }
+  .submitreq{
+    margin-top: 15px;
+    justify-content: space-around;
+  }
+  .leavedetail{
+    display: inline-flex;
+    margin-left: 20px;
+    justify-content: space-around;
+
+  }
+  .leavebox.p{
+    padding: 15px;
+    margin-top: 10px;
+    align-items: center;}
+p{
+  color: rgb(22, 21, 21);}
+  
+  .Submitbtnleave{
+   padding: 10px;
+   margin-top: 15px;
+   text-align: end;
+  }
+  .submitbtnlev{
+    color: beige;
+    background-color: cornflowerblue;
+    width: 100%;
+    height: 40px;
+    border-radius: 20px;
+    border-color: cornflowerblue;
+   
+  }
+
+ 
