@@ -1,0 +1,47 @@
+h2 {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.emaillogin {
+  /* padding: 10px 50px;
+    margin: 8px 0; */
+  background-color: #fff;
+  border-radius: 10px;
+}
+
+.signupsection {
+  background: -webkit-linear-gradient(left, #e84eea, #706aed, #738de6, #eb82ed);
+  height: 100vh;
+  padding: 30px 381px;
+}
+
+.passlogin {
+  margin-top: 10%;
+}
+
+.Loginicons {
+  position: absolute;
+  left: 8px;
+  top: 0;
+  font-size: 25px;
+  color: #b8b9be;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.alert {
+  color: #DC3545;
+  font-weight: 500;
+}
+
+.loginform {
+  width: 40%;
+  border-radius: 12px;
+  margin: 0 auto;
+  height: 80vh;
+  background-color: #fff;
+}
